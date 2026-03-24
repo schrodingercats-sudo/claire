@@ -60,7 +60,7 @@ export default function Page() {
       {/* Hero */}
       <main className="pt-8 md:pt-12 pb-16 px-6 md:px-8 max-w-5xl mx-auto flex flex-col items-center">
         <h1 className="text-[40px] sm:text-[56px] md:text-[72px] font-medium text-white text-center leading-[1.05] tracking-tight mb-10 md:mb-14">
-          Claire — Find Competitor <span className="italic underline decoration-dotted underline-offset-[8px] md:underline-offset-[12px] decoration-white/30 decoration-2">Loopholes</span><br className="hidden sm:block" />
+          Claire Find Competitor <span className="italic underline decoration-dotted underline-offset-[8px] md:underline-offset-[12px] decoration-white/30 decoration-2">Loopholes</span><br className="hidden sm:block" />
           Before They Find <span className="italic underline decoration-dotted underline-offset-[8px] md:underline-offset-[12px] decoration-white/30 decoration-2">You</span>
         </h1>
 
